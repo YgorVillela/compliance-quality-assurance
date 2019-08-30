@@ -1,0 +1,7 @@
+faf (Fator Ajustado Final) = 0,65
+
+FIT (Fator Influencia total) = 0,30
+
+0,65+0,30 = 0,95 
+
+95%
